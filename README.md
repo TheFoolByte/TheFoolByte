@@ -130,6 +130,6 @@ motto: "Chasing nothing — I just love the process and the result."
 <br/><br/>
 
 
-<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/footer.svg?v=3" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/footer.svg?v=4" width="100%" alt="footer" />
 
 </div>
