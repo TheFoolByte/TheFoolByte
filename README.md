@@ -117,8 +117,6 @@ motto: "Chasing nothing — I just love the process and the result."
 
 </div>
 
-> Snake-nya muncul setelah GitHub Action `Platane/snk` jalan sekali di repo profile ini (branch `output`). Kalau belum diset-up, bagian ini akan kelihatan kosong dulu — itu normal.
-
 
 ---
 
