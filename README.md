@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/banner.svg" width="100%" alt="Rohan Dhika" />
+<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/banner.svg?v=2" width="100%" alt="Rohan Dhika" />
 
 <a href="https://github.com/TheFoolByte">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5C00&center=true&vCenter=true&width=600&lines=Hi+Im+Rohan+Dhika;Student+at+Universitas+Serambi+Mekkah;I+build+apps+solo%2C+end+to+end;Coffee+Lens+-+AI+for+coffee+leaves;Cybersecurity+and+Reverse+Engineering;Power+that+could+harm%2C+choosing+to+protect" alt="Typing SVG" />
@@ -16,19 +16,23 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/about-banner.svg" width="100%" alt="About Me" />
+<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/about-banner.svg?v=2" width="100%" alt="About Me" />
 
 ```yaml
 name: Fuji Rohan Dhika Lahas
+alias: Jun / TheFoolByte
 role: Student — Universitas Serambi Mekkah
-focus: AI, Cybersecurity, Reverse Engineering
+focus: [ Mobile Apps, AI / Computer Vision, Cybersecurity, Reverse Engineering ]
 currently: Learning RE fundamentals & building small projects until it's truly done
 motto: "Chasing nothing — I just love the process and the result."
 ```
 
+- ☕ I built **Coffee Lens** solo in under a month — UI design, frontend, backend, and training the AI-CNN that detects disease in coffee leaves
+- 🥉 **Bronze Medal** — 3rd ISS, International Student Summit, Malaysia (12–13 September 2026) for Coffee Lens
 - 🔐 My favourite field is **cybersecurity**: the white-hat idea of having power that could harm, but choosing to protect instead
 - 🔬 Lately deep into **reverse engineering** — analysing how an app works, how it's built, and how to rebuild it
 - 🌙 You'll usually find me at a warkop from evening until closing, laptop open, building something from just an idea
+- 🎌 Currently watching: Attack on Titan (Season 4)
 
 
 ---
