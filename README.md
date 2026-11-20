@@ -129,8 +129,7 @@ motto: "Chasing nothing — I just love the process and the result."
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=FFDC58&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by;Now+go+build+something" alt="thanks" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/footer.svg?v=2" width="100%" alt="footer" />
 
 </div>
