@@ -127,9 +127,6 @@ motto: "Chasing nothing — I just love the process and the result."
 
 <a href="https://github.com/TheFoolByte"><img src="https://img.shields.io/badge/GitHub-TheFoolByte-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-<br/><br/>
-
-
 <img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/footer.svg?v=4" width="100%" alt="footer" />
 
 </div>
