@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fuji%20Rohan%20Dhika%20Lahas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=TheFoolByte%20%7C%20builder%20%2F%20breaker%20%2F%20learner&descAlignY=55&descSize=16" width="100%" alt="header" />
 
 <a href="https://github.com/TheFoolByte">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5C00&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I%27m+Jun+—+aka+TheFoolByte;Student+%40+Universitas+Serambi+Mekkah;I+build+apps+solo%2C+end+to+end;Coffee+Lens+%E2%80%94+AI+for+coffee+leaves+%E2%98%95%F0%9F%8C%B1;Cybersecurity+%26+Reverse+Engineering+%F0%9F%94%90;Power+that+could+harm%2C+choosing+to+protect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5C00&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Jun+-+aka+TheFoolByte;Student+at+Universitas+Serambi+Mekkah;I+build+apps+solo%2C+end+to+end;Coffee+Lens+-+AI+for+coffee+leaves;Cybersecurity+and+Reverse+Engineering;Power+that+could+harm%2C+choosing+to+protect" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,6 +20,7 @@
 
 ```yaml
 name: Fuji Rohan Dhika Lahas
+alias: Jun / TheFoolByte
 role: Student — Universitas Serambi Mekkah
 focus: [ Mobile Apps, AI / Computer Vision, Cybersecurity, Reverse Engineering ]
 currently: Learning RE fundamentals & building small projects until it's truly done
@@ -82,10 +83,6 @@ motto: "Chasing nothing — I just love the process and the result."
 
 <img src="https://streak-stats.demolab.com?user=TheFoolByte&theme=tokyonight&fire=FF5C00&ring=FF5C00&currStreakLabel=FF5C00&background=0D1117&border=FF5C00" alt="GitHub streak" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=TheFoolByte&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-
 </div>
 
 ### 📈 Activity graph
@@ -135,7 +132,7 @@ motto: "Chasing nothing — I just love the process and the result."
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=FFDC58&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Now+go+build+something+%F0%9F%9A%80" alt="thanks" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=FFDC58&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by;Now+go+build+something" alt="thanks" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
 
