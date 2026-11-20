@@ -20,7 +20,6 @@
 
 ```yaml
 name: Fuji Rohan Dhika Lahas
-alias: Jun / TheFoolByte
 role: Student — Universitas Serambi Mekkah
 focus: [ Mobile Apps, AI / Computer Vision, Cybersecurity, Reverse Engineering ]
 currently: Learning RE fundamentals & building small projects until it's truly done
