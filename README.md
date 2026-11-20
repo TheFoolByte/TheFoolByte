@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About me
+<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/about-banner.svg" width="100%" alt="About Me" />
 
 ```yaml
 name: Fuji Rohan Dhika Lahas
