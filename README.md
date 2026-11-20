@@ -34,7 +34,7 @@ motto: "Chasing nothing — I just love the process and the result."
 
 ---
 
-## 🛠️ Tech stack & tools
+<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/section-tech-stack.svg?v=2" width="100%" alt="section-tech-stack" />
 
 <div align="center">
 
@@ -55,7 +55,7 @@ motto: "Chasing nothing — I just love the process and the result."
 
 ---
 
-## 🚀 Featured projects
+<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/section-featured-projects.svg?v=2" width="100%" alt="section-featured-projects" />
 
 | Project | What it is |
 | :--- | :--- |
@@ -69,7 +69,7 @@ motto: "Chasing nothing — I just love the process and the result."
 
 ---
 
-## 📊 GitHub stats
+<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/section-github-stats.svg?v=2" width="100%" alt="section-github-stats" />
 
 <div align="center">
 
@@ -98,7 +98,7 @@ motto: "Chasing nothing — I just love the process and the result."
 
 ---
 
-## 🐍 Watch the snake eat my contributions
+<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/section-contributions.svg?v=2" width="100%" alt="section-contributions" />
 
 <div align="center">
 
@@ -113,7 +113,7 @@ motto: "Chasing nothing — I just love the process and the result."
 
 ---
 
-## 🏆 Highlights
+<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/section-highlights.svg?v=2" width="100%" alt="section-highlights" />
 
 - 🥉 **Bronze Medal** — 3rd ISS, International Student Summit, Malaysia, 2026
 - ⚡ **Quickdraw** — GitHub Achievement
@@ -123,7 +123,7 @@ motto: "Chasing nothing — I just love the process and the result."
 
 <div align="center">
 
-### 💬 Let's connect
+<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/section-connect.svg?v=2" width="100%" alt="section-connect" />
 
 <a href="https://github.com/TheFoolByte"><img src="https://img.shields.io/badge/GitHub-TheFoolByte-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
