@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fuji%20Rohan%20Dhika%20Lahas&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=TheFoolByte%20%7C%20builder%20%2F%20breaker%20%2F%20learner&descAlignY=55&descSize=16" width="100%" alt="header" />
 
 <a href="https://github.com/TheFoolByte">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5C00&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+Jun+-+aka+TheFoolByte;Student+at+Universitas+Serambi+Mekkah;I+build+apps+solo%2C+end+to+end;Coffee+Lens+-+AI+for+coffee+leaves;Cybersecurity+and+Reverse+Engineering;Power+that+could+harm%2C+choosing+to+protect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5C00&center=true&vCenter=true&width=600&lines=Hi+Im+Rohan+Dhika;Student+at+Universitas+Serambi+Mekkah;I+build+apps+solo%2C+end+to+end;Coffee+Lens+-+AI+for+coffee+leaves;Cybersecurity+and+Reverse+Engineering;Power+that+could+harm%2C+choosing+to+protect" alt="Typing SVG" />
 </a>
 
 <br/>
