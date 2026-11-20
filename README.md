@@ -41,9 +41,9 @@ motto: "Chasing nothing — I just love the process and the result."
 
 <div align="center">
 
-### Languages & frameworks
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,dart,flutter,js,ts,html,css,react,nextjs,nodejs&perline=10" alt="languages and frameworks" />
+<img src="https://skillicons.dev/icons?i=python,bash&perline=10" alt="languages" />
 
 ### Tools, platforms & security
 
