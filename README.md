@@ -27,12 +27,9 @@ currently: Learning RE fundamentals & building small projects until it's truly d
 motto: "Chasing nothing — I just love the process and the result."
 ```
 
-- ☕ I built **Coffee Lens** solo in under a month — UI design, frontend, backend, and training the AI-CNN that detects disease in coffee leaves
-- 🥉 **Bronze Medal** — 3rd ISS, International Student Summit, Malaysia (12–13 September 2026) for Coffee Lens
 - 🔐 My favourite field is **cybersecurity**: the white-hat idea of having power that could harm, but choosing to protect instead
 - 🔬 Lately deep into **reverse engineering** — analysing how an app works, how it's built, and how to rebuild it
 - 🌙 You'll usually find me at a warkop from evening until closing, laptop open, building something from just an idea
-- 🎌 Currently watching: Attack on Titan (Season 4)
 
 
 ---
