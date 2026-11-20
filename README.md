@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/banner.svg?v=2" width="100%" alt="Rohan Dhika" />
+<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/banner.svg?v=3" width="100%" alt="Rohan Dhika" />
 
 <a href="https://github.com/TheFoolByte">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF5C00&center=true&vCenter=true&width=600&lines=Hi+Im+Rohan+Dhika;Student+at+Universitas+Serambi+Mekkah;I+build+apps+solo%2C+end+to+end;Coffee+Lens+-+AI+for+coffee+leaves;Cybersecurity+and+Reverse+Engineering;Power+that+could+harm%2C+choosing+to+protect" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/about-banner.svg?v=2" width="100%" alt="About Me" />
+<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/about-banner.svg?v=3" width="100%" alt="About Me" />
 
 ```yaml
 name: Fuji Rohan Dhika Lahas
@@ -34,7 +34,7 @@ motto: "Chasing nothing — I just love the process and the result."
 
 ---
 
-<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/section-tech-stack.svg?v=2" width="100%" alt="section-tech-stack" />
+<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/section-tech-stack.svg?v=3" width="100%" alt="section-tech-stack" />
 
 <div align="center">
 
@@ -55,7 +55,7 @@ motto: "Chasing nothing — I just love the process and the result."
 
 ---
 
-<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/section-featured-projects.svg?v=2" width="100%" alt="section-featured-projects" />
+<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/section-featured-projects.svg?v=3" width="100%" alt="section-featured-projects" />
 
 | Project | What it is |
 | :--- | :--- |
@@ -69,7 +69,7 @@ motto: "Chasing nothing — I just love the process and the result."
 
 ---
 
-<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/section-github-stats.svg?v=2" width="100%" alt="section-github-stats" />
+<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/section-github-stats.svg?v=3" width="100%" alt="section-github-stats" />
 
 <div align="center">
 
@@ -98,7 +98,7 @@ motto: "Chasing nothing — I just love the process and the result."
 
 ---
 
-<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/section-contributions.svg?v=2" width="100%" alt="section-contributions" />
+<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/section-contributions.svg?v=3" width="100%" alt="section-contributions" />
 
 <div align="center">
 
@@ -113,7 +113,7 @@ motto: "Chasing nothing — I just love the process and the result."
 
 ---
 
-<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/section-highlights.svg?v=2" width="100%" alt="section-highlights" />
+<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/section-highlights.svg?v=3" width="100%" alt="section-highlights" />
 
 - 🥉 **Bronze Medal** — 3rd ISS, International Student Summit, Malaysia, 2026
 - ⚡ **Quickdraw** — GitHub Achievement
@@ -123,7 +123,7 @@ motto: "Chasing nothing — I just love the process and the result."
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/section-connect.svg?v=2" width="100%" alt="section-connect" />
+<img src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/main/assets/section-connect.svg?v=3" width="100%" alt="section-connect" />
 
 <a href="https://github.com/TheFoolByte"><img src="https://img.shields.io/badge/GitHub-TheFoolByte-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
