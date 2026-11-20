@@ -112,7 +112,7 @@ motto: "Chasing nothing — I just love the process and the result."
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/output/github-contribution-grid-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TheFoolByte/TheFoolByte/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
@@ -122,15 +122,9 @@ motto: "Chasing nothing — I just love the process and the result."
 
 ## 🏆 Highlights
 
-<div align="center">
-
-| | |
-| :--- | :--- |
-| 🥉 | **Bronze Medal** — 3rd ISS, International Student Summit, Malaysia, 2026 |
-| ⚡ | **Quickdraw** — GitHub Achievement |
-| 🤯 | **YOLO** — GitHub Achievement |
-
-</div>
+- 🥉 **Bronze Medal** — 3rd ISS, International Student Summit, Malaysia, 2026
+- ⚡ **Quickdraw** — GitHub Achievement
+- 🤯 **YOLO** — GitHub Achievement
 
 ---
 
